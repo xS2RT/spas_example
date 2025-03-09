@@ -1,0 +1,6 @@
+>game,T6
+>type,fastfile
+>name,mod
+
+stringtable,mp/statstable.csv
+include,spas_mp
