@@ -6,4 +6,4 @@ All mods for plutonium T6 must be created with OAT, see below link for further i
 
 https://rentry.co/t6_mod_tools
 
-If you need any help porting weapons from clump dump or SP/ZM to MP feel free to DM me on twitter. @gunjibra
+If you need any help porting weapons from clump dump or SP/ZM to MP feel free to DM @gunjibra on twitter.
